@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small helpers */
+html, body, #root { height: 100%; }
+body { background-color: #0a0a0a; }
